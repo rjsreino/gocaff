@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "925429520433",
+    "project_id": "gocaffauth",
+    "storage_bucket": "gocaffauth.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925429520433:android:77809324abbb3f0d051d10",
+        "android_client_info": {
+          "package_name": "com.example.gocaff"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByARbq2KdJXxL4JCRq2sm9EC7NXtkXjNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
