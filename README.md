@@ -1,16 +1,3 @@
 # gocaff
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+An Order and Pick-up Mobile App for selecting partner cafes/vendors, ordering from them outside of its location, and picking up the order at the café/vendor location. Notifications will be sent for payment process, order status (still in progress, ready for pickup, etc.)
